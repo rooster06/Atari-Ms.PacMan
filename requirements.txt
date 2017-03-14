@@ -1,0 +1,24 @@
+atari-py==0.0.18
+box2d-py==2.3.1
+cycler==0.10.0
+dask==0.12.0
+decorator==4.0.10
+-e git+https://github.com/openai/gym@991b309ceefebde5a965bbd159966cba756d629c#egg=gym
+Keras==1.1.1
+matplotlib==1.5.3
+networkx==1.11
+numpy==1.11.2
+Pillow==3.4.2
+pyglet==1.2.4
+PyOpenGL==3.1.0
+pyparsing==2.1.10
+python-dateutil==2.5.3
+pytz==2016.7
+PyYAML==3.12
+qlearning4k==0.0.1
+requests==2.11.1
+scikit-image==0.12.3
+scipy==0.18.1
+six==1.10.0
+Theano==0.8.2
+toolz==0.8.0
